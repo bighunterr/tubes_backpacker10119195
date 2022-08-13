@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249280212311",
+    "project_id": "backpacker-2c1a4",
+    "storage_bucket": "backpacker-2c1a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249280212311:android:2f59ef58015fb81975e212",
+        "android_client_info": {
+          "package_name": "com.janug.backpacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249280212311-sfbr7f046edsenqhj6ie95f8grv8an2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPnCCxztWsBCWgnZVpPBj12Tgoqghnzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249280212311-sfbr7f046edsenqhj6ie95f8grv8an2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
